@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 kkkkkkk
 palmeiras
-terceira linhaterceira linha
+terceira linha
 =======
+kkkkkkk
 >>>>>>> parent of c9b83a1 (alteração no texto)
